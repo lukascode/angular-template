@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Demo
 
-![01_layout]([http://url/to/img.png](https://raw.githubusercontent.com/lukascode/angular-template/master/demo/01_layout.png))
+![01_layout](https://raw.githubusercontent.com/lukascode/angular-template/master/demo/01_layout.png)
 
 ## Development server
 
