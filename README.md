@@ -6,11 +6,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ![01_layout](https://raw.githubusercontent.com/lukascode/angular-template/master/demo/01_layout.png)
 
-![02_layout_mobile](https://raw.githubusercontent.com/lukascode/angular-template/master/demo/02_layout_mobile.png)
-
-![03_layout_mobile_nav](https://raw.githubusercontent.com/lukascode/angular-template/master/demo/03_layout_mobile_nav.png)
-
 ![04_layout_dark](https://raw.githubusercontent.com/lukascode/angular-template/master/demo/04_layout_dark.png)
+
+![02_layout_mobile](https://raw.githubusercontent.com/lukascode/angular-template/master/demo/02_layout_mobile.png)
+![03_layout_mobile_nav](https://raw.githubusercontent.com/lukascode/angular-template/master/demo/03_layout_mobile_nav.png)
 
 ## Development server
 
